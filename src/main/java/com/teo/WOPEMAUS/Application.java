@@ -1,4 +1,4 @@
-package com.teo._AUS_ProyectoWeb;
+package com.teo.WOPEMAUS;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
