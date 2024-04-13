@@ -1,4 +1,4 @@
-package com.teo.WOPEMAUS;
+package com.teo.WOPEMAUS.Usuario;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -19,5 +19,6 @@ public class Usuario {
     private String password;
     private String email;
     private boolean enabled;
+    
     
 }
